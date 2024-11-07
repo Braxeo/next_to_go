@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lint>
+    <!-- Enable/Disable rules globally -->
+    <issue id="HardcodedText" severity="warning" />
+    <issue id="UnusedResources" severity="error" />
+    <issue id="LogTag" severity="ignore" />
+</lint>
